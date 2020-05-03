@@ -1,10 +1,10 @@
-# base_docker
+# base_django
 
 ## 概要
-フロントサイドは、Angularを用意（予定）
-サーバサイドは、PythonでDjangoをフレームワークで採用予定
-DBはmysql
-DBツールとしてphpmyadminも採用
-  
+サーバサイドをDjangoを使って開発しているもの
+ブログの説明用のブランチでもあるのでいろいろと触ってためていく
+
 ## ブランチの意味
-step1 最初のDocker環境の確認のためmysqlとphpmyadminのみを用意
+|ブランチ名|説明|
+|-|-|
+|step1| プロジェクトを作成し、APIアプリとしてv1を用意した。|
