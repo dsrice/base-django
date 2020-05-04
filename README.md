@@ -8,3 +8,5 @@
 |ブランチ名|説明|
 |-|-|
 |step1| プロジェクトを作成し、APIアプリとしてv1を用意した。|
+|abstractuser|AbstractUserを継承してユーザモデルをカスタマイズした|
+|abstractbaseuser|AbstractBaseUserを継承してユーザモデルをカスタマイズした|
